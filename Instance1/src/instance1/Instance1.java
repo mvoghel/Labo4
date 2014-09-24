@@ -18,7 +18,7 @@ public class Instance1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Salut Martin");
+        System.out.println("Salut Martin Voghel");
     }
     
 }
